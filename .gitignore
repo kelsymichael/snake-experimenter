@@ -1,0 +1,56 @@
+# AI Tooling
+.aider*
+.cursor/
+.continue/
+.vscode/
+.idea/
+.cline/
+.roo/
+*.ai-context
+.ai/
+.claudeconfig
+.claude/
+.gemini/
+.copilot/
+
+# AI Chat Logs & Context
+ai-chats/
+ai-logs/
+.ai-context/
+chat-history/
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/settings.json
+.idea/workspace.xml
+
+# Development
+node_modules/
+.cache/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
